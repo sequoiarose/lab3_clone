@@ -2,3 +2,5 @@
 lab 3 practice for cloning
 
 Editing my readme from my local repository
+
+Editing from github
